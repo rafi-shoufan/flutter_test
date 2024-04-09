@@ -6,7 +6,6 @@ import 'package:untitled1/app/login/cubit/login_states.dart';
 import 'package:untitled1/resources/app_theme.dart';
 import 'package:untitled1/resources/color_manager.dart';
 import 'package:untitled1/resources/widgets.dart';
-
 import '../../../http_manager/end_points.dart';
 import '../../../prefrences_manager/prefrences_manager.dart';
 import '../../../resources/routes_manager.dart';
